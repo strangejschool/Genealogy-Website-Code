@@ -1,2 +1,4 @@
-# Genealogy-Website-Code
+# Genealogy Website Code
 This repository has useful code blocks that can be embedded on Google Sites to add useful functionality
+
+List of folder usage:
